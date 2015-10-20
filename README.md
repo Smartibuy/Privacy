@@ -1,4 +1,4 @@
-Privacy Policy of the smartibuy Facebook app
+Privacy Policy of the Smartibuy
 ==
 This Application collects some Personal Data from its Users.
 ###Data Controller and Owner

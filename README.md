@@ -42,7 +42,7 @@ By default, this includes certain User’s Data such as id, name, picture, gende
 
 Provides access to the User's primary email address
 
-**Email**
+**Group information**
 
 Provides access to the information of the groups user involved in.
 
